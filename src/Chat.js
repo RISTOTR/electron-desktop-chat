@@ -21,6 +21,7 @@ class Chat extends Component {
     .then(currentUser => {
       this.setState({ currentUser })
       console.log('Bleep bloop 🤖 You are connected to Chatkit')
+      
     })
     .catch(error => console.error('error', error))
 }

@@ -6,7 +6,7 @@
     "react-scripts": "^1.0.14"
   },
   "dependencies": {
-    "@pusher/chatkit": "^0.7.15",
+    "@pusher/chatkit": "^0.7.16",
     "add": "^2.0.6",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
